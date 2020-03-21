@@ -115,6 +115,7 @@ class MapViewController: AbstractViewController, GMSMapViewDelegate {
 extension MapViewController: CLLocationManagerDelegate {
     func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
         if let location = locations.first {
+            guard userLocation == nil else { return }
             userLocation = Coordinates(latitude: location.coordinate.latitude, longitude: location.coordinate.longitude)
             let camera = GMSCameraPosition.camera(withTarget: location.coordinate, zoom: 10.0)
             mapView?.animate(to: camera)

@@ -17,7 +17,7 @@ class GoogleAPIManager {
         let origin = "\(origin.latitude!),\(origin.longitude!)"
         let destination = "\(destination.latitude!),\(destination.longitude!)"
         
-        let url = "https://maps.googleapis.com/maps/api/directions/json?origin=\(origin)&destination=\(destination)&mode=driving&key=\(Google_API_Key)"
+        let url = "https://maps.googleapis.com/maps/api/directions/json?origin=\(origin)&destination=\(destination)&mode=driving&key=\(Google_Direction_API_Key)"
         
         // request from Alamofire
         APIManager.requestWith(url) { (base: BaseDirection?) in

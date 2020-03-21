@@ -1,0 +1,6 @@
+module Pods_EasyFind {
+  umbrella header "Pods-EasyFind-umbrella.h"
+
+  export *
+  module * { export * }
+}
