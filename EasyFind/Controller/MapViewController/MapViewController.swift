@@ -64,7 +64,7 @@ class MapViewController: AbstractViewController, GMSMapViewDelegate {
                 let path = GMSPath.init(fromEncodedPath: points!)
                 let polyline = GMSPolyline(path: path)
                 polyline.strokeColor = UIColor(red: 0.13, green: 0.59, blue: 0.95, alpha: 1.00)
-                polyline.strokeWidth = 2.0
+                polyline.strokeWidth = 5.0
                 polyline.map = self.mapView
             }
         }

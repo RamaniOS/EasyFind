@@ -214,8 +214,10 @@ extension SearchViewController: UISearchBarDelegate {
         guard let location = searchBar.text else { return }
         weak var `self` = self
         offset = 0
+        indicator.startAnimating()
         YelpManager.fetchYelpBusinesses(with: offset, location: location) { (baseModel) in
             guard let `self` = self else { return }
+            self.indicator.stopAnimating()
             self.items.removeAll()
             self.baseModel = baseModel
         }
