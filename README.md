@@ -4,15 +4,16 @@ Find local restaurants, read expert customer reviews, and start searching for re
   - **Swift 5**
   - **Mapkit**
   
-# App Flow
+# App Screens
 
-
-[![Watch the video]
 <p align="center">
-<img src="Screens/Signin.png" width= 250>
-</p>
-]
-(https://youtu.be/PoUv_gJhoJU)
+  <img src="Screens/Signin.png" width= 250>   <img src="Screens/Signup.png" width= 250>        <img src="Screens/Home.png" width= 250>
+ </p>
+<p align="center">
+  <img src="Screens/Map.png" width= 250>   <img src="Screens/Settings.png" width= 250>        <img src="Screens/Search.png" width= 250>
+ </p>
+ 
+![Watch the video] (https://youtu.be/PoUv_gJhoJU)
 
   #  Features!
 
