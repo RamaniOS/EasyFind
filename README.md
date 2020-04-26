@@ -6,7 +6,7 @@ Find local restaurants, read expert customer reviews, and start searching for re
   
 # App Flow
 
-[![Watch the video](Screens/Signin.png)](https://youtu.be/PoUv_gJhoJU)
+[![Watch the video](<img src="Screens/Signin.png" width= 250> )](https://youtu.be/PoUv_gJhoJU)
 
   #  Features!
 
