@@ -13,7 +13,9 @@ Find local restaurants, read expert customer reviews, and start searching for re
   <img src="Screens/Map.png" width= 250>   <img src="Screens/Settings.png" width= 250>        <img src="Screens/Search.png" width= 250>
  </p>
  
-![Watch the video] (https://youtu.be/PoUv_gJhoJU)
+ # App Flow
+ 
+[![Watch the video]] (https://youtu.be/PoUv_gJhoJU)
 
   #  Features!
 
