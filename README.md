@@ -2,15 +2,17 @@
 
 Find local restaurants, read expert customer reviews, and start searching for restaurants near you with Yelp.
   - **Swift 5**
-  - **Core Data**
   - **Mapkit**
   
+# App Flow
+
+[![Watch the video](Screens/Signin.png)](https://youtu.be/PoUv_gJhoJU)
+
   #  Features!
 
   - Find the newest and hottest restaurants in your area
   - Search restaurant results by location
   - Get Route between your location & Restaurants
-  - Save your favourite restaurants
   
 ### Installation
 
@@ -39,25 +41,6 @@ EasyFind is currently extended with the following libraries. Instructions on how
 | IQKeyboardManagerSwift | [IQKeyBoard] |
 | SDWebImage | [SDWebImage] |
 
-### Developers
-
-| Developer | Github Account |
-| ------ | ------ |
-| Ramanpreet Singh | [Ramanpreet] |
-| Nitin Jaswal | [Nitin] |
-
-### Todos
-
- - Added Core Data to save favourite restaurants
- - Added Mapkit
- 
-License
-----
-
-MIT
-
-
-**Free Application, Hell Yeah!**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
@@ -68,8 +51,6 @@ MIT
    [cosmos]: <https://github.com/evgenyneu/Cosmos>
    [SDWebImage]: <https://github.com/SDWebImage/SDWebImage>
    [IQKeyboard]: <https://github.com/hackiftekhar/IQKeyboardManager/tree/master/IQKeyboardManagerSwift>
-   [ramanpreet]: <https://github.com/RamaniOS>
-   [nitin]: <https://github.com/nathanjaswal>
-   
+
    
    
