@@ -6,9 +6,14 @@ Find local restaurants, read expert customer reviews, and start searching for re
   
 # App Flow
 
+
+[![Watch the video]
 <p align="center">
-[![Watch the video]<img src="Screens/Signin.png" width= 250>](https://youtu.be/PoUv_gJhoJU)
+<img src="Screens/Signin.png" width= 250>
 </p>
+]
+(https://youtu.be/PoUv_gJhoJU)
+
   #  Features!
 
   - Find the newest and hottest restaurants in your area
