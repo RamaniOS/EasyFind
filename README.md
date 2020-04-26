@@ -15,7 +15,9 @@ Find local restaurants, read expert customer reviews, and start searching for re
  
  # App Flow
  
-[![Watch the video]] (https://youtu.be/PoUv_gJhoJU)
+| Video link | [App flow] |
+| ------ | ------ |
+
 
   #  Features!
 
@@ -53,6 +55,7 @@ EasyFind is currently extended with the following libraries. Instructions on how
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
+    
    [git]: <https://github.com/RamaniOS/EasyFind.git>
    [swift]: <https://developer.apple.com/documentation/swift>
    [yelp API]: <https://www.yelp.com/developers/v3/manage_app>
@@ -60,6 +63,7 @@ EasyFind is currently extended with the following libraries. Instructions on how
    [cosmos]: <https://github.com/evgenyneu/Cosmos>
    [SDWebImage]: <https://github.com/SDWebImage/SDWebImage>
    [IQKeyboard]: <https://github.com/hackiftekhar/IQKeyboardManager/tree/master/IQKeyboardManagerSwift>
+   [App Flow]: <https://youtu.be/PoUv_gJhoJU>
 
    
    
